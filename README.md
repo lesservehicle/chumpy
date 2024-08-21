@@ -1,3 +1,7 @@
+> [!NOTE]  
+> This is a fork. I've removed the `setup.py` file and created a `pyproject.toml` file. Nothing else has changed. All credit goes to the original developer.
+
+
 chumpy
 ======
 
